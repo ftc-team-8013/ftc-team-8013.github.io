@@ -9,7 +9,7 @@ name: Kuiper
 description: Team 8013
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://lh6.googleusercontent.com/RNkVZ6pcLYZQZX7xUWmw6QJIWxjgo_i6mttqyEwvMkiBKUV-lYOmCabplESkmQkbNG9oDiatneGWC4kbw3Dq=w1366-h625
+avatar: images/Kuiper Brand Logo.png
 
 #
 # Flags below are optional
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: hello
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
