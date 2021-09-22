@@ -4,6 +4,7 @@ title: First Planning Session
 ---
 
 ![20210922_181719](https://user-images.githubusercontent.com/47298960/134434857-7a92521a-d780-4018-8c41-f34c5c3e536e.jpg)
+
 Today was our first planning session. We started planning how to drive over the terrain and how to pick up the freight. We also learned what GitHub does and how to use it. Some of the newcommers also spent time learning how to drive the robot. We had a lot of extremely good ideas and we spent time on teaching the the fundementals so everyone knows how to do a little bit of everything.
 
 ![20210922_181444](https://user-images.githubusercontent.com/47298960/134434935-4b66594d-14f7-4643-8354-53f904f51f75.jpg)
