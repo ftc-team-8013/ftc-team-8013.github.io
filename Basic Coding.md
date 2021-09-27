@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code Basics
+title: Coding
 permalink: /coding/
 ---
 
