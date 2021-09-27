@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Code Basics
+permalink: /coding/
 ---
 
 In FTC programming there are a few things that you should know. This will be a guide on programming for First Tech Challege. **REMINDER: If you need help ask someone more experienced than you.**
