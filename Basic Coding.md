@@ -18,4 +18,4 @@ Well we went into what Java is but what do we use it for. Well with FTC java is 
 TeleOp or the Driver Controlled is one of the most important programs there is. Even though it is the simplest program it gets us the most points and the programmer who works on this needs to communicate with both drivers to make it easy for them to do their job. There are many parts to the TeleOp which is the same for the Autonomous but for this wesite it will only be explained for the TeleOp program.
 
 ## Initializing motors
-Initializing motors is how we are able to reference physical hardware with the code
+Initializing motors is how we are able to reference physical hardware with the code.
